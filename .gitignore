@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+notebooks
+code_archive
+*/log/[0-9]*/
+oldlogs

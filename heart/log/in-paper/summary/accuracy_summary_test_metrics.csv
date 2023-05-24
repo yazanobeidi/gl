@@ -1,0 +1,7 @@
+,personalizedfederated,federatedsame_yspacesame_xspace,orphaned
+cleveland.accuracy,0.8101,0.7734,0.8002
+cleveland.balanced_accuracy,0.8118,0.7806,0.8023
+sa.accuracy,0.7120,0.6669,0.7028
+sa.balanced_accuracy,0.6322,0.5615,0.6243
+faisalabad.accuracy,0.8061,0.7668,0.7965
+faisalabad.balanced_accuracy,0.7515,0.6766,0.7457
